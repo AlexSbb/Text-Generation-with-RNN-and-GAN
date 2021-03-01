@@ -1,0 +1,1425 @@
+0: Controller_0: Controller ready...
+1: Passenger_0: Generating passenger...
+1: Passenger_0: Passenger arriving at floor: 0
+1: Passenger_0: Arriving with destination floor: 13
+1: Passenger_0: Waiting on elevator...
+1: Controller_0: Receiving passenger signal
+1: Controller_0: Elevator departing to floor number (to arrival): 0
+5: Controller_0: Current elevator floor: 4
+9: Controller_0: Current elevator floor: 3
+13: Controller_0: Current elevator floor: 2
+17: Controller_0: Current elevator floor: 1
+21: Controller_0: Current elevator floor: 0
+21: Controller_0: Elevator driving time (to arrival): 20 seconds ( 5 - 0 )
+21: Controller_0: New previous elevator floor: 0
+21: Controller_0: Opening doors
+21: Passenger_0: Waiting time: 20 seconds
+24: Controller_0: Closing doors
+27: Controller_0: Elevator departing to floor number (to destination): 13
+30.7784: Passenger_1: Generating passenger...
+30.7784: Passenger_1: Passenger arriving at floor: 0
+30.7784: Passenger_1: Arriving with destination floor: 2
+30.7784: Passenger_1: Waiting on elevator...
+31: Controller_0: Current elevator floor: 1
+35: Controller_0: Current elevator floor: 2
+39: Controller_0: Current elevator floor: 3
+43: Controller_0: Current elevator floor: 4
+47: Controller_0: Current elevator floor: 5
+51: Controller_0: Current elevator floor: 6
+55: Controller_0: Current elevator floor: 7
+56.1349: Passenger_2: Generating passenger...
+56.1349: Passenger_2: Passenger arriving at floor: 1
+56.1349: Passenger_2: Arriving with destination floor: 2
+56.1349: Passenger_2: Waiting on elevator...
+59: Controller_0: Current elevator floor: 8
+63: Controller_0: Current elevator floor: 9
+67: Controller_0: Current elevator floor: 10
+71: Controller_0: Current elevator floor: 11
+75: Controller_0: Current elevator floor: 12
+79: Controller_0: Current elevator floor: 13
+79: Controller_0: Elevator driving time (to destination): 52 seconds ( 0 - 13 )
+79: Controller_0: Reached destination: 13
+79: Controller_0: Opening doors
+82: Controller_0: Closing doors
+85: Controller_0: Check if data frame is empty. Rows: 0
+85: Controller_0: Handling waiting passengers... ( 2 )
+85: Controller_0: Elevator departing to floor number (to arrival): 0
+85: Passenger_0: Activity time 84
+85: Passenger_0: Leaving elevator
+89: Controller_0: Current elevator floor: 12
+93: Controller_0: Current elevator floor: 11
+97: Controller_0: Current elevator floor: 10
+101: Controller_0: Current elevator floor: 9
+105: Controller_0: Current elevator floor: 8
+109: Controller_0: Current elevator floor: 7
+113: Controller_0: Current elevator floor: 6
+117: Controller_0: Current elevator floor: 5
+119.043: Passenger_3: Generating passenger...
+119.043: Passenger_3: Passenger arriving at floor: 0
+119.043: Passenger_3: Arriving with destination floor: 13
+119.043: Passenger_3: Waiting on elevator...
+121: Controller_0: Current elevator floor: 4
+125: Controller_0: Current elevator floor: 3
+129: Controller_0: Current elevator floor: 2
+133: Controller_0: Current elevator floor: 1
+137: Controller_0: Current elevator floor: 0
+137: Controller_0: Elevator driving time (to arrival): 52 seconds ( 13 - 0 )
+137: Controller_0: New previous elevator floor: 0
+137: Controller_0: Opening doors
+137: Passenger_1: Waiting time: 106.221567922272 seconds
+137: Passenger_2: Not my arrival floor, or direction.
+137: Passenger_3: Waiting time: 17.9565625649461 seconds
+140: Controller_0: Closing doors
+143: Controller_0: Elevator departing to floor number (to destination): 2
+147: Controller_0: Current elevator floor: 1
+147: Controller_0: Picking up waiting passengers at floor: 1
+147: Controller_0: New destination floor: 2
+147: Controller_0: Opening doors
+147: Passenger_2: Waiting time: 90.8650584323332 seconds
+150: Controller_0: Closing doors
+157: Controller_0: Current elevator floor: 2
+157: Controller_0: Elevator driving time (to destination): 4 seconds ( 1 - 2 )
+157: Controller_0: Reached destination: 2
+157: Controller_0: Opening doors
+160: Controller_0: Closing doors
+163: Controller_0: Rollback 'handlerForWaitingPassengers'
+163: Controller_0: Handling waiting passengers... ( 1 )
+163: Controller_0: Elevator departing to floor number (to arrival): 0
+163: Passenger_1: Activity time 132.221567922272
+163: Passenger_1: Leaving elevator
+163: Passenger_2: Activity time 106.865058432333
+163: Passenger_2: Leaving elevator
+163: Passenger_3: Not my destination floor
+167: Controller_0: Current elevator floor: 1
+171: Controller_0: Current elevator floor: 0
+171: Controller_0: Elevator driving time (to arrival): 8 seconds ( 2 - 0 )
+171: Controller_0: New previous elevator floor: 0
+171: Controller_0: Opening doors
+172.012: Passenger_4: Generating passenger...
+172.012: Passenger_4: Passenger arriving at floor: 7
+172.012: Passenger_4: Arriving with destination floor: 9
+172.012: Passenger_4: Waiting on elevator...
+174: Controller_0: Closing doors
+177: Controller_0: Elevator departing to floor number (to destination): 13
+181: Controller_0: Current elevator floor: 1
+185: Controller_0: Current elevator floor: 2
+189: Controller_0: Current elevator floor: 3
+193: Controller_0: Current elevator floor: 4
+197: Controller_0: Current elevator floor: 5
+201: Controller_0: Current elevator floor: 6
+205: Controller_0: Current elevator floor: 7
+205: Controller_0: Picking up waiting passengers at floor: 7
+205: Controller_0: New destination floor: 9
+205: Controller_0: Opening doors
+205: Passenger_4: Waiting time: 32.9878638736072 seconds
+208: Controller_0: Closing doors
+215: Controller_0: Current elevator floor: 8
+219: Controller_0: Current elevator floor: 9
+219: Controller_0: Elevator driving time (to destination): 8 seconds ( 7 - 9 )
+219: Controller_0: Reached destination: 9
+219: Controller_0: Opening doors
+219: Passenger_3: Not my destination floor
+219: Passenger_4: Activity time 46.9878638736072
+219: Passenger_4: Leaving elevator
+222: Controller_0: Closing doors
+225: Controller_0: Elevator departing to floor number (to destination): 13
+228.928: Passenger_5: Generating passenger...
+228.928: Passenger_5: Passenger arriving at floor: 0
+228.928: Passenger_5: Arriving with destination floor: 3
+228.928: Passenger_5: Waiting on elevator...
+229: Controller_0: Current elevator floor: 10
+233: Controller_0: Current elevator floor: 11
+237: Controller_0: Current elevator floor: 12
+241: Controller_0: Current elevator floor: 13
+241: Controller_0: Elevator driving time (to destination): 16 seconds ( 9 - 13 )
+241: Controller_0: Reached destination: 13
+241: Controller_0: Opening doors
+244: Controller_0: Closing doors
+247: Controller_0: Rollback 'handlerForWaitingPassengers'
+247: Controller_0: Handling waiting passengers... ( 1 )
+247: Controller_0: Elevator departing to floor number (to arrival): 0
+247: Passenger_3: Activity time 127.956562564946
+247: Passenger_3: Leaving elevator
+251: Controller_0: Current elevator floor: 12
+255: Controller_0: Current elevator floor: 11
+259: Controller_0: Current elevator floor: 10
+263: Controller_0: Current elevator floor: 9
+267: Controller_0: Current elevator floor: 8
+271: Controller_0: Current elevator floor: 7
+275: Controller_0: Current elevator floor: 6
+279: Controller_0: Current elevator floor: 5
+283: Controller_0: Current elevator floor: 4
+287: Controller_0: Current elevator floor: 3
+291: Controller_0: Current elevator floor: 2
+295: Controller_0: Current elevator floor: 1
+299: Controller_0: Current elevator floor: 0
+299: Controller_0: Elevator driving time (to arrival): 52 seconds ( 13 - 0 )
+299: Controller_0: New previous elevator floor: 0
+299: Controller_0: Opening doors
+299: Passenger_5: Waiting time: 70.0716823188272 seconds
+302: Controller_0: Closing doors
+305: Controller_0: Elevator departing to floor number (to destination): 3
+309: Controller_0: Current elevator floor: 1
+313: Controller_0: Current elevator floor: 2
+317: Controller_0: Current elevator floor: 3
+317: Controller_0: Elevator driving time (to destination): 12 seconds ( 0 - 3 )
+317: Controller_0: Reached destination: 3
+317: Controller_0: Opening doors
+320: Controller_0: Closing doors
+323: Controller_0: Controller ready...
+323: Passenger_5: Activity time 94.0716823188272
+323: Passenger_5: Leaving elevator
+327.581: Passenger_6: Generating passenger...
+327.581: Passenger_6: Passenger arriving at floor: 1
+327.581: Passenger_6: Arriving with destination floor: 8
+327.581: Passenger_6: Waiting on elevator...
+327.581: Controller_0: Receiving passenger signal
+327.581: Controller_0: Elevator departing to floor number (to arrival): 1
+331.067: Passenger_7: Generating passenger...
+331.067: Passenger_7: Passenger arriving at floor: 0
+331.067: Passenger_7: Arriving with destination floor: 5
+331.067: Passenger_7: Waiting on elevator...
+331.581: Controller_0: Current elevator floor: 2
+335.581: Controller_0: Current elevator floor: 1
+335.581: Controller_0: Elevator driving time (to arrival): 8 seconds ( 3 - 1 )
+335.581: Controller_0: New previous elevator floor: 1
+335.581: Controller_0: Opening doors
+335.581: Passenger_6: Waiting time: 8 seconds
+335.581: Passenger_7: Not my arrival floor, or direction.
+338.581: Controller_0: Closing doors
+341.581: Controller_0: Elevator departing to floor number (to destination): 8
+345.581: Controller_0: Current elevator floor: 2
+349.581: Controller_0: Current elevator floor: 3
+353.581: Controller_0: Current elevator floor: 4
+357.581: Controller_0: Current elevator floor: 5
+361.581: Controller_0: Current elevator floor: 6
+365.581: Controller_0: Current elevator floor: 7
+369.581: Controller_0: Current elevator floor: 8
+369.581: Controller_0: Elevator driving time (to destination): 28 seconds ( 1 - 8 )
+369.581: Controller_0: Reached destination: 8
+369.581: Controller_0: Opening doors
+372.581: Controller_0: Closing doors
+375.581: Controller_0: Check if data frame is empty. Rows: 0
+375.581: Controller_0: Handling waiting passengers... ( 1 )
+375.581: Controller_0: Elevator departing to floor number (to arrival): 0
+375.581: Passenger_6: Activity time 48
+375.581: Passenger_6: Leaving elevator
+379.581: Controller_0: Current elevator floor: 7
+383.581: Controller_0: Current elevator floor: 6
+387.581: Controller_0: Current elevator floor: 5
+391.581: Controller_0: Current elevator floor: 4
+395.581: Controller_0: Current elevator floor: 3
+399.581: Controller_0: Current elevator floor: 2
+403.581: Controller_0: Current elevator floor: 1
+407.581: Controller_0: Current elevator floor: 0
+407.581: Controller_0: Elevator driving time (to arrival): 32 seconds ( 8 - 0 )
+407.581: Controller_0: New previous elevator floor: 0
+407.581: Controller_0: Opening doors
+407.581: Passenger_7: Waiting time: 76.5142037719488 seconds
+410.581: Controller_0: Closing doors
+413.581: Controller_0: Elevator departing to floor number (to destination): 5
+417.581: Controller_0: Current elevator floor: 1
+421.581: Controller_0: Current elevator floor: 2
+425.581: Controller_0: Current elevator floor: 3
+429.581: Controller_0: Current elevator floor: 4
+433.581: Controller_0: Current elevator floor: 5
+433.581: Controller_0: Elevator driving time (to destination): 20 seconds ( 0 - 5 )
+433.581: Controller_0: Reached destination: 5
+433.581: Controller_0: Opening doors
+436.581: Controller_0: Closing doors
+439.581: Controller_0: Controller ready...
+439.581: Passenger_7: Activity time 108.514203771949
+439.581: Passenger_7: Leaving elevator
+462.26: Passenger_8: Generating passenger...
+462.26: Passenger_8: Passenger arriving at floor: 0
+462.26: Passenger_8: Arriving with destination floor: 3
+462.26: Passenger_8: Waiting on elevator...
+462.26: Controller_0: Receiving passenger signal
+462.26: Controller_0: Elevator departing to floor number (to arrival): 0
+466.26: Controller_0: Current elevator floor: 4
+468.067: Passenger_9: Generating passenger...
+468.067: Passenger_9: Passenger arriving at floor: 0
+468.067: Passenger_9: Arriving with destination floor: 7
+468.067: Passenger_9: Waiting on elevator...
+470.26: Controller_0: Current elevator floor: 3
+474.26: Controller_0: Current elevator floor: 2
+478.26: Controller_0: Current elevator floor: 1
+482.26: Controller_0: Current elevator floor: 0
+482.26: Controller_0: Elevator driving time (to arrival): 20 seconds ( 5 - 0 )
+482.26: Controller_0: New previous elevator floor: 0
+482.26: Controller_0: Opening doors
+482.26: Passenger_8: Waiting time: 20 seconds
+482.26: Passenger_9: Waiting time: 14.1924845099733 seconds
+485.26: Controller_0: Closing doors
+488.26: Controller_0: Elevator departing to floor number (to destination): 3
+492.26: Controller_0: Current elevator floor: 1
+496.26: Controller_0: Current elevator floor: 2
+498.595: Passenger_10: Generating passenger...
+498.595: Passenger_10: Passenger arriving at floor: 0
+498.595: Passenger_10: Arriving with destination floor: 13
+498.595: Passenger_10: Waiting on elevator...
+500.26: Controller_0: Current elevator floor: 3
+500.26: Controller_0: Elevator driving time (to destination): 12 seconds ( 0 - 3 )
+500.26: Controller_0: Reached destination: 3
+500.26: Controller_0: Opening doors
+503.26: Controller_0: Closing doors
+505.444: Passenger_11: Generating passenger...
+505.444: Passenger_11: Passenger arriving at floor: 1
+505.444: Passenger_11: Arriving with destination floor: 2
+505.444: Passenger_11: Waiting on elevator...
+506.26: Controller_0: Check if data frame is empty. Rows: 1
+506.26: Controller_0: Elevator departing to floor number (to arrival): 1
+506.26: Passenger_8: Activity time 44
+506.26: Passenger_8: Leaving elevator
+506.26: Passenger_9: Not my destination floor
+510.26: Controller_0: Current elevator floor: 2
+514.26: Controller_0: Current elevator floor: 1
+514.26: Controller_0: Elevator driving time (to arrival): 8 seconds ( 3 - 1 )
+514.26: Controller_0: New previous elevator floor: 1
+514.26: Controller_0: Opening doors
+514.26: Passenger_10: Not my arrival floor, or direction.
+514.26: Passenger_11: Waiting time: 8.81610325637706 seconds
+517.26: Controller_0: Closing doors
+520.26: Controller_0: Elevator departing to floor number (to destination): 2
+524.26: Controller_0: Current elevator floor: 2
+524.26: Controller_0: Elevator driving time (to destination): 4 seconds ( 1 - 2 )
+524.26: Controller_0: Reached destination: 2
+524.26: Controller_0: Opening doors
+527.26: Controller_0: Closing doors
+530.26: Controller_0: Handling waiting passengers... ( 2 )
+530.26: Controller_0: Elevator departing to floor number (to arrival): 0
+530.26: Passenger_9: Not my destination floor
+530.26: Passenger_11: Activity time 24.8161032563771
+530.26: Passenger_11: Leaving elevator
+534.26: Controller_0: Current elevator floor: 1
+538.26: Controller_0: Current elevator floor: 0
+538.26: Controller_0: Elevator driving time (to arrival): 8 seconds ( 2 - 0 )
+538.26: Controller_0: New previous elevator floor: 0
+538.26: Controller_0: Opening doors
+538.26: Passenger_10: Waiting time: 39.6645966579206 seconds
+541.26: Controller_0: Closing doors
+544.26: Controller_0: Elevator departing to floor number (to destination): 7
+548.26: Controller_0: Current elevator floor: 1
+552.26: Controller_0: Current elevator floor: 2
+556.26: Controller_0: Current elevator floor: 3
+557.1: Passenger_12: Generating passenger...
+557.1: Passenger_12: Passenger arriving at floor: 0
+557.1: Passenger_12: Arriving with destination floor: 1
+557.1: Passenger_12: Waiting on elevator...
+560.26: Controller_0: Current elevator floor: 4
+564.26: Controller_0: Current elevator floor: 5
+568.26: Controller_0: Current elevator floor: 6
+572.26: Controller_0: Current elevator floor: 7
+572.26: Controller_0: Elevator driving time (to destination): 28 seconds ( 0 - 7 )
+572.26: Controller_0: Reached destination: 7
+572.26: Controller_0: Opening doors
+572.26: Passenger_9: Activity time 104.192484509973
+572.26: Passenger_9: Leaving elevator
+572.26: Passenger_10: Not my destination floor
+575.26: Controller_0: Closing doors
+578.26: Controller_0: Elevator departing to floor number (to destination): 13
+582.26: Controller_0: Current elevator floor: 8
+584.82: Passenger_13: Generating passenger...
+584.82: Passenger_13: Passenger arriving at floor: 1
+584.82: Passenger_13: Arriving with destination floor: 5
+584.82: Passenger_13: Waiting on elevator...
+586.26: Controller_0: Current elevator floor: 9
+590.26: Controller_0: Current elevator floor: 10
+594.26: Controller_0: Current elevator floor: 11
+598.26: Controller_0: Current elevator floor: 12
+602.26: Controller_0: Current elevator floor: 13
+602.26: Controller_0: Elevator driving time (to destination): 24 seconds ( 7 - 13 )
+602.26: Controller_0: Reached destination: 13
+602.26: Controller_0: Opening doors
+605.26: Controller_0: Closing doors
+608.26: Controller_0: Rollback 'handlerForWaitingPassengers'
+608.26: Controller_0: Handling waiting passengers... ( 2 )
+608.26: Controller_0: Elevator departing to floor number (to arrival): 0
+608.26: Passenger_10: Activity time 109.664596657921
+608.26: Passenger_10: Leaving elevator
+612.26: Controller_0: Current elevator floor: 12
+616.26: Controller_0: Current elevator floor: 11
+620.26: Controller_0: Current elevator floor: 10
+624.26: Controller_0: Current elevator floor: 9
+628.26: Controller_0: Current elevator floor: 8
+632.26: Controller_0: Current elevator floor: 7
+636.26: Controller_0: Current elevator floor: 6
+640.26: Controller_0: Current elevator floor: 5
+644.26: Controller_0: Current elevator floor: 4
+648.26: Controller_0: Current elevator floor: 3
+652.26: Controller_0: Current elevator floor: 2
+656.26: Controller_0: Current elevator floor: 1
+660.26: Controller_0: Current elevator floor: 0
+660.26: Controller_0: Elevator driving time (to arrival): 52 seconds ( 13 - 0 )
+660.26: Controller_0: New previous elevator floor: 0
+660.26: Controller_0: Opening doors
+660.26: Passenger_12: Waiting time: 103.160024199011 seconds
+660.26: Passenger_13: Not my arrival floor, or direction.
+663.26: Controller_0: Closing doors
+666.26: Controller_0: Elevator departing to floor number (to destination): 1
+667.973: Passenger_14: Generating passenger...
+667.973: Passenger_14: Passenger arriving at floor: 0
+667.973: Passenger_14: Arriving with destination floor: 9
+667.973: Passenger_14: Waiting on elevator...
+670.26: Controller_0: Current elevator floor: 1
+670.26: Controller_0: Picking up waiting passengers at floor: 1
+670.26: Controller_0: New destination floor: 1
+670.26: Controller_0: Opening doors
+670.26: Passenger_13: Waiting time: 85.4393924934137 seconds
+670.26: Passenger_14: Not my arrival floor, or direction.
+673.26: Controller_0: Closing doors
+676.26: Controller_0: Elevator driving time (to destination): 4 seconds ( 0 - 1 )
+676.26: Controller_0: Reached destination: 1
+676.26: Controller_0: Opening doors
+676.26: Passenger_12: Activity time 119.160024199011
+676.26: Passenger_12: Leaving elevator
+676.26: Passenger_13: Not my destination floor
+679.26: Controller_0: Closing doors
+682.26: Controller_0: Elevator departing to floor number (to destination): 5
+686.26: Controller_0: Current elevator floor: 2
+690.26: Controller_0: Current elevator floor: 3
+694.26: Controller_0: Current elevator floor: 4
+698.26: Controller_0: Current elevator floor: 5
+698.26: Controller_0: Elevator driving time (to destination): 16 seconds ( 1 - 5 )
+698.26: Controller_0: Reached destination: 5
+698.26: Controller_0: Opening doors
+701.26: Controller_0: Closing doors
+704.26: Controller_0: Rollback 'handlerForWaitingPassengers'
+704.26: Controller_0: Handling waiting passengers... ( 1 )
+704.26: Controller_0: Elevator departing to floor number (to arrival): 0
+704.26: Passenger_13: Activity time 119.439392493414
+704.26: Passenger_13: Leaving elevator
+708.26: Controller_0: Current elevator floor: 4
+712.26: Controller_0: Current elevator floor: 3
+716.26: Controller_0: Current elevator floor: 2
+720.26: Controller_0: Current elevator floor: 1
+724.26: Controller_0: Current elevator floor: 0
+724.26: Controller_0: Elevator driving time (to arrival): 20 seconds ( 5 - 0 )
+724.26: Controller_0: New previous elevator floor: 0
+724.26: Controller_0: Opening doors
+724.26: Passenger_14: Waiting time: 56.287252379433 seconds
+727.26: Controller_0: Closing doors
+730.26: Controller_0: Elevator departing to floor number (to destination): 9
+734.26: Controller_0: Current elevator floor: 1
+738.26: Controller_0: Current elevator floor: 2
+742.26: Controller_0: Current elevator floor: 3
+746.26: Controller_0: Current elevator floor: 4
+750.26: Controller_0: Current elevator floor: 5
+754.26: Controller_0: Current elevator floor: 6
+758.26: Controller_0: Current elevator floor: 7
+762.26: Controller_0: Current elevator floor: 8
+766.26: Controller_0: Current elevator floor: 9
+766.26: Controller_0: Elevator driving time (to destination): 36 seconds ( 0 - 9 )
+766.26: Controller_0: Reached destination: 9
+766.26: Controller_0: Opening doors
+769.26: Controller_0: Closing doors
+772.26: Controller_0: Controller ready...
+772.26: Passenger_14: Activity time 104.287252379433
+772.26: Passenger_14: Leaving elevator
+786.461: Passenger_15: Generating passenger...
+786.461: Passenger_15: Passenger arriving at floor: 1
+786.461: Passenger_15: Arriving with destination floor: 14
+786.461: Passenger_15: Waiting on elevator...
+786.461: Controller_0: Receiving passenger signal
+786.461: Controller_0: Elevator departing to floor number (to arrival): 1
+790.461: Controller_0: Current elevator floor: 8
+794.461: Controller_0: Current elevator floor: 7
+798.461: Controller_0: Current elevator floor: 6
+802.461: Controller_0: Current elevator floor: 5
+806.461: Controller_0: Current elevator floor: 4
+810.461: Controller_0: Current elevator floor: 3
+814.461: Controller_0: Current elevator floor: 2
+818.461: Controller_0: Current elevator floor: 1
+818.461: Controller_0: Elevator driving time (to arrival): 32 seconds ( 9 - 1 )
+818.461: Controller_0: New previous elevator floor: 1
+818.461: Controller_0: Opening doors
+818.461: Passenger_15: Waiting time: 32 seconds
+821.461: Controller_0: Closing doors
+824.461: Controller_0: Elevator departing to floor number (to destination): 14
+828.461: Controller_0: Current elevator floor: 2
+832.461: Controller_0: Current elevator floor: 3
+836.461: Controller_0: Current elevator floor: 4
+840.461: Controller_0: Current elevator floor: 5
+844.461: Controller_0: Current elevator floor: 6
+848.461: Controller_0: Current elevator floor: 7
+852.461: Controller_0: Current elevator floor: 8
+856.461: Controller_0: Current elevator floor: 9
+858.836: Passenger_16: Generating passenger...
+858.836: Passenger_16: Passenger arriving at floor: 0
+858.836: Passenger_16: Arriving with destination floor: 14
+858.836: Passenger_16: Waiting on elevator...
+860.461: Controller_0: Current elevator floor: 10
+864.461: Controller_0: Current elevator floor: 11
+868.461: Controller_0: Current elevator floor: 12
+872.461: Controller_0: Current elevator floor: 13
+876.461: Controller_0: Current elevator floor: 14
+876.461: Controller_0: Elevator driving time (to destination): 52 seconds ( 1 - 14 )
+876.461: Controller_0: Reached destination: 14
+876.461: Controller_0: Opening doors
+879.461: Controller_0: Closing doors
+882.461: Controller_0: Check if data frame is empty. Rows: 0
+882.461: Controller_0: Handling waiting passengers... ( 1 )
+882.461: Controller_0: Elevator departing to floor number (to arrival): 0
+882.461: Passenger_15: Activity time 96
+882.461: Passenger_15: Leaving elevator
+886.461: Controller_0: Current elevator floor: 13
+890.461: Controller_0: Current elevator floor: 12
+894.461: Controller_0: Current elevator floor: 11
+898.461: Controller_0: Current elevator floor: 10
+902.461: Controller_0: Current elevator floor: 9
+906.461: Controller_0: Current elevator floor: 8
+910.461: Controller_0: Current elevator floor: 7
+914.461: Controller_0: Current elevator floor: 6
+918.461: Controller_0: Current elevator floor: 5
+922.461: Controller_0: Current elevator floor: 4
+926.461: Controller_0: Current elevator floor: 3
+930.461: Controller_0: Current elevator floor: 2
+934.461: Controller_0: Current elevator floor: 1
+938.461: Controller_0: Current elevator floor: 0
+938.461: Controller_0: Elevator driving time (to arrival): 56 seconds ( 14 - 0 )
+938.461: Controller_0: New previous elevator floor: 0
+938.461: Controller_0: Opening doors
+938.461: Passenger_16: Waiting time: 79.6251466055501 seconds
+941.461: Controller_0: Closing doors
+944.461: Controller_0: Elevator departing to floor number (to destination): 14
+946.913: Passenger_17: Generating passenger...
+946.913: Passenger_17: Passenger arriving at floor: 1
+946.913: Passenger_17: Arriving with destination floor: 6
+946.913: Passenger_17: Waiting on elevator...
+948.461: Controller_0: Current elevator floor: 1
+948.461: Controller_0: Picking up waiting passengers at floor: 1
+948.461: Controller_0: New destination floor: 6
+948.461: Controller_0: Opening doors
+948.461: Passenger_17: Waiting time: 1.54826929515366 seconds
+951.461: Controller_0: Closing doors
+958.461: Controller_0: Current elevator floor: 2
+962.461: Controller_0: Current elevator floor: 3
+966.461: Controller_0: Current elevator floor: 4
+970.461: Controller_0: Current elevator floor: 5
+974.461: Controller_0: Current elevator floor: 6
+974.461: Controller_0: Elevator driving time (to destination): 20 seconds ( 1 - 6 )
+974.461: Controller_0: Reached destination: 6
+974.461: Controller_0: Opening doors
+974.461: Passenger_16: Not my destination floor
+974.461: Passenger_17: Activity time 27.5482692951537
+974.461: Passenger_17: Leaving elevator
+977.461: Controller_0: Closing doors
+980.461: Controller_0: Elevator departing to floor number (to destination): 14
+984.461: Controller_0: Current elevator floor: 7
+988.461: Controller_0: Current elevator floor: 8
+992.461: Controller_0: Current elevator floor: 9
+996.461: Controller_0: Current elevator floor: 10
+1000.46: Controller_0: Current elevator floor: 11
+1004.46: Controller_0: Current elevator floor: 12
+1005.85: Passenger_18: Generating passenger...
+1005.85: Passenger_18: Passenger arriving at floor: 0
+1005.85: Passenger_18: Arriving with destination floor: 2
+1005.85: Passenger_18: Waiting on elevator...
+1008.46: Controller_0: Current elevator floor: 13
+1011.6: Passenger_19: Generating passenger...
+1011.6: Passenger_19: Passenger arriving at floor: 0
+1011.6: Passenger_19: Arriving with destination floor: 1
+1011.6: Passenger_19: Waiting on elevator...
+1012.46: Controller_0: Current elevator floor: 14
+1012.46: Controller_0: Elevator driving time (to destination): 32 seconds ( 6 - 14 )
+1012.46: Controller_0: Reached destination: 14
+1012.46: Controller_0: Opening doors
+1013.9: Passenger_20: Generating passenger...
+1013.9: Passenger_20: Passenger arriving at floor: 0
+1013.9: Passenger_20: Arriving with destination floor: 6
+1013.9: Passenger_20: Waiting on elevator...
+1015.46: Controller_0: Closing doors
+1018.02: Passenger_21: Generating passenger...
+1018.02: Passenger_21: Passenger arriving at floor: 0
+1018.02: Passenger_21: Arriving with destination floor: 7
+1018.02: Passenger_21: Waiting on elevator...
+1018.46: Controller_0: Elevator departing to floor number (to arrival): 0
+1018.46: Passenger_16: Activity time 159.62514660555
+1018.46: Passenger_16: Leaving elevator
+1022.46: Controller_0: Current elevator floor: 13
+1026.46: Controller_0: Current elevator floor: 12
+1030.46: Controller_0: Current elevator floor: 11
+1034.46: Controller_0: Current elevator floor: 10
+1038.46: Controller_0: Current elevator floor: 9
+1042.46: Controller_0: Current elevator floor: 8
+1046.46: Controller_0: Current elevator floor: 7
+1050.42: Passenger_22: Generating passenger...
+1050.42: Passenger_22: Passenger arriving at floor: 7
+1050.42: Passenger_22: Arriving with destination floor: 4
+1050.42: Passenger_22: Waiting on elevator...
+1050.46: Controller_0: Current elevator floor: 6
+1054.46: Controller_0: Current elevator floor: 5
+1058.46: Controller_0: Current elevator floor: 4
+1062.46: Controller_0: Current elevator floor: 3
+1066.46: Controller_0: Current elevator floor: 2
+1070.46: Controller_0: Current elevator floor: 1
+1074.46: Controller_0: Current elevator floor: 0
+1074.46: Controller_0: Elevator driving time (to arrival): 56 seconds ( 14 - 0 )
+1074.46: Controller_0: New previous elevator floor: 0
+1074.46: Controller_0: Opening doors
+1074.46: Passenger_18: Waiting time: 68.6132648543353 seconds
+1074.46: Passenger_19: Waiting time: 62.8605759243251 seconds
+1074.46: Passenger_20: Waiting time: 60.5637005769418 seconds
+1074.46: Passenger_21: Waiting time: 56.4366708388866 seconds
+1074.46: Passenger_22: Not my arrival floor, or direction.
+1077.46: Controller_0: Closing doors
+1080.46: Controller_0: Elevator departing to floor number (to destination): 6
+1084.46: Controller_0: Current elevator floor: 1
+1088.46: Controller_0: Current elevator floor: 2
+1092.46: Controller_0: Current elevator floor: 3
+1096.46: Controller_0: Current elevator floor: 4
+1100.46: Controller_0: Current elevator floor: 5
+1104.46: Controller_0: Current elevator floor: 6
+1104.46: Controller_0: Elevator driving time (to destination): 24 seconds ( 0 - 6 )
+1104.46: Controller_0: Reached destination: 6
+1104.46: Controller_0: Opening doors
+1107.46: Controller_0: Closing doors
+1110.46: Controller_0: Rollback 'handlerForWaitingPassengers'
+1110.46: Controller_0: Handling waiting passengers... ( 1 )
+1110.46: Controller_0: Elevator departing to floor number (to arrival): 7
+1110.46: Passenger_18: Not my destination floor
+1110.46: Passenger_19: Not my destination floor
+1110.46: Passenger_20: Activity time 96.5637005769418
+1110.46: Passenger_20: Leaving elevator
+1110.46: Passenger_21: Not my destination floor
+1114.46: Controller_0: Current elevator floor: 7
+1114.46: Controller_0: Elevator driving time (to arrival): 4 seconds ( 6 - 7 )
+1114.46: Controller_0: New previous elevator floor: 7
+1114.46: Controller_0: Opening doors
+1114.46: Passenger_22: Waiting time: 64.0415481962577 seconds
+1117.46: Controller_0: Closing doors
+1120.46: Controller_0: Elevator departing to floor number (to destination): 4
+1124.46: Controller_0: Current elevator floor: 6
+1128.46: Controller_0: Current elevator floor: 5
+1132.46: Controller_0: Current elevator floor: 4
+1132.46: Controller_0: Elevator driving time (to destination): 12 seconds ( 7 - 4 )
+1132.46: Controller_0: Reached destination: 4
+1132.46: Controller_0: Opening doors
+1135.46: Controller_0: Closing doors
+1138.46: Controller_0: Rollback 'handlerForWaitingPassengers'
+1138.46: Controller_0: Handling waiting passengers... ( 3 )
+1138.46: Controller_0: Elevator departing to floor number (to arrival): 0
+1138.46: Passenger_18: Not my destination floor
+1138.46: Passenger_19: Not my destination floor
+1138.46: Passenger_21: Not my destination floor
+1138.46: Passenger_22: Activity time 88.0415481962577
+1138.46: Passenger_22: Leaving elevator
+1142.46: Controller_0: Current elevator floor: 3
+1146.46: Controller_0: Current elevator floor: 2
+1150.46: Controller_0: Current elevator floor: 1
+1154.46: Controller_0: Current elevator floor: 0
+1154.46: Controller_0: Elevator driving time (to arrival): 16 seconds ( 4 - 0 )
+1154.46: Controller_0: New previous elevator floor: 0
+1154.46: Controller_0: Opening doors
+1157.46: Controller_0: Closing doors
+1160.46: Controller_0: Elevator departing to floor number (to destination): 1
+1164.46: Controller_0: Current elevator floor: 1
+1164.46: Controller_0: Elevator driving time (to destination): 4 seconds ( 0 - 1 )
+1164.46: Controller_0: Reached destination: 1
+1164.46: Controller_0: Opening doors
+1164.46: Passenger_18: Not my destination floor
+1164.46: Passenger_19: Activity time 152.860575924325
+1164.46: Passenger_19: Leaving elevator
+1164.46: Passenger_21: Not my destination floor
+1167.46: Controller_0: Closing doors
+1168.61: Passenger_23: Generating passenger...
+1168.61: Passenger_23: Passenger arriving at floor: 0
+1168.61: Passenger_23: Arriving with destination floor: 9
+1168.61: Passenger_23: Waiting on elevator...
+1170.46: Controller_0: Elevator departing to floor number (to destination): 2
+1174.46: Controller_0: Current elevator floor: 2
+1174.46: Controller_0: Elevator driving time (to destination): 4 seconds ( 1 - 2 )
+1174.46: Controller_0: Reached destination: 2
+1174.46: Controller_0: Opening doors
+1174.46: Passenger_18: Activity time 168.613264854335
+1174.46: Passenger_18: Leaving elevator
+1174.46: Passenger_21: Not my destination floor
+1177.46: Controller_0: Closing doors
+1180.46: Controller_0: Elevator departing to floor number (to destination): 7
+1184.46: Controller_0: Current elevator floor: 3
+1188.46: Controller_0: Current elevator floor: 4
+1192.46: Controller_0: Current elevator floor: 5
+1193.29: Passenger_24: Generating passenger...
+1193.29: Passenger_24: Passenger arriving at floor: 7
+1193.29: Passenger_24: Arriving with destination floor: 8
+1193.29: Passenger_24: Waiting on elevator...
+1196.46: Controller_0: Current elevator floor: 6
+1200.46: Controller_0: Current elevator floor: 7
+1200.46: Controller_0: Picking up waiting passengers at floor: 7
+1200.46: Controller_0: New destination floor: 7
+1200.46: Controller_0: Opening doors
+1200.46: Passenger_23: Not my arrival floor, or direction.
+1200.46: Passenger_24: Waiting time: 7.16651670209262 seconds
+1203.46: Controller_0: Closing doors
+1203.83: Passenger_25: Generating passenger...
+1203.83: Passenger_25: Passenger arriving at floor: 0
+1203.83: Passenger_25: Arriving with destination floor: 3
+1203.83: Passenger_25: Waiting on elevator...
+1206.46: Controller_0: Elevator driving time (to destination): 28 seconds ( 0 - 7 )
+1206.46: Controller_0: Reached destination: 7
+1206.46: Controller_0: Opening doors
+1206.46: Passenger_21: Activity time 188.436670838887
+1206.46: Passenger_21: Leaving elevator
+1206.46: Passenger_24: Not my destination floor
+1209.46: Controller_0: Closing doors
+1212.46: Controller_0: Elevator departing to floor number (to destination): 8
+1216.46: Controller_0: Current elevator floor: 8
+1216.46: Controller_0: Elevator driving time (to destination): 4 seconds ( 7 - 8 )
+1216.46: Controller_0: Reached destination: 8
+1216.46: Controller_0: Opening doors
+1219.46: Controller_0: Closing doors
+1222.46: Controller_0: Rollback 'handlerForWaitingPassengers'
+1222.46: Controller_0: Handling waiting passengers... ( 2 )
+1222.46: Controller_0: Elevator departing to floor number (to arrival): 0
+1222.46: Passenger_24: Activity time 29.1665167020926
+1222.46: Passenger_24: Leaving elevator
+1226.46: Controller_0: Current elevator floor: 7
+1230.46: Controller_0: Current elevator floor: 6
+1234.46: Controller_0: Current elevator floor: 5
+1238.46: Controller_0: Current elevator floor: 4
+1242.46: Controller_0: Current elevator floor: 3
+1246.46: Controller_0: Current elevator floor: 2
+1250.46: Controller_0: Current elevator floor: 1
+1254.46: Controller_0: Current elevator floor: 0
+1254.46: Controller_0: Elevator driving time (to arrival): 32 seconds ( 8 - 0 )
+1254.46: Controller_0: New previous elevator floor: 0
+1254.46: Controller_0: Opening doors
+1254.46: Passenger_23: Waiting time: 85.8478874329476 seconds
+1254.46: Passenger_25: Waiting time: 50.6260655694002 seconds
+1257.46: Controller_0: Closing doors
+1260.46: Controller_0: Elevator departing to floor number (to destination): 3
+1264.46: Controller_0: Current elevator floor: 1
+1268.46: Controller_0: Current elevator floor: 2
+1272.46: Controller_0: Current elevator floor: 3
+1272.46: Controller_0: Elevator driving time (to destination): 12 seconds ( 0 - 3 )
+1272.46: Controller_0: Reached destination: 3
+1272.46: Controller_0: Opening doors
+1272.46: Passenger_23: Not my destination floor
+1272.46: Passenger_25: Activity time 68.6260655694002
+1272.46: Passenger_25: Leaving elevator
+1275.46: Controller_0: Closing doors
+1278.46: Controller_0: Elevator departing to floor number (to destination): 9
+1282.46: Controller_0: Current elevator floor: 4
+1286.46: Controller_0: Current elevator floor: 5
+1290.46: Controller_0: Current elevator floor: 6
+1294.46: Controller_0: Current elevator floor: 7
+1298.46: Controller_0: Current elevator floor: 8
+1298.78: Passenger_26: Generating passenger...
+1298.78: Passenger_26: Passenger arriving at floor: 0
+1298.78: Passenger_26: Arriving with destination floor: 11
+1298.78: Passenger_26: Waiting on elevator...
+1302.46: Controller_0: Current elevator floor: 9
+1302.46: Controller_0: Elevator driving time (to destination): 24 seconds ( 3 - 9 )
+1302.46: Controller_0: Reached destination: 9
+1302.46: Controller_0: Opening doors
+1305.46: Controller_0: Closing doors
+1308.46: Controller_0: Rollback 'handlerForWaitingPassengers'
+1308.46: Controller_0: Handling waiting passengers... ( 1 )
+1308.46: Controller_0: Elevator departing to floor number (to arrival): 0
+1308.46: Passenger_23: Activity time 139.847887432948
+1308.46: Passenger_23: Leaving elevator
+1312.46: Controller_0: Current elevator floor: 8
+1316.46: Controller_0: Current elevator floor: 7
+1320.46: Controller_0: Current elevator floor: 6
+1324.46: Controller_0: Current elevator floor: 5
+1328.46: Controller_0: Current elevator floor: 4
+1332.46: Controller_0: Current elevator floor: 3
+1336.46: Controller_0: Current elevator floor: 2
+1340.46: Controller_0: Current elevator floor: 1
+1342.33: Passenger_27: Generating passenger...
+1342.33: Passenger_27: Passenger arriving at floor: 0
+1342.33: Passenger_27: Arriving with destination floor: 6
+1342.33: Passenger_27: Waiting on elevator...
+1343.87: Passenger_28: Generating passenger...
+1343.87: Passenger_28: Passenger arriving at floor: 1
+1343.87: Passenger_28: Arriving with destination floor: 6
+1343.87: Passenger_28: Waiting on elevator...
+1344.46: Controller_0: Current elevator floor: 0
+1344.46: Controller_0: Elevator driving time (to arrival): 36 seconds ( 9 - 0 )
+1344.46: Controller_0: New previous elevator floor: 0
+1344.46: Controller_0: Opening doors
+1344.46: Passenger_26: Waiting time: 45.6789333529264 seconds
+1344.46: Passenger_27: Waiting time: 2.12892621662559 seconds
+1344.46: Passenger_28: Not my arrival floor, or direction.
+1347.46: Controller_0: Closing doors
+1350.46: Controller_0: Elevator departing to floor number (to destination): 11
+1354.46: Controller_0: Current elevator floor: 1
+1354.46: Controller_0: Picking up waiting passengers at floor: 1
+1354.46: Controller_0: New destination floor: 6
+1354.46: Controller_0: Opening doors
+1354.46: Passenger_28: Waiting time: 10.5936745032677 seconds
+1357.46: Controller_0: Closing doors
+1364.46: Controller_0: Current elevator floor: 2
+1368.46: Controller_0: Current elevator floor: 3
+1372.46: Controller_0: Current elevator floor: 4
+1376.46: Controller_0: Current elevator floor: 5
+1380.46: Controller_0: Current elevator floor: 6
+1380.46: Controller_0: Elevator driving time (to destination): 20 seconds ( 1 - 6 )
+1380.46: Controller_0: Reached destination: 6
+1380.46: Controller_0: Opening doors
+1380.46: Passenger_26: Not my destination floor
+1380.46: Passenger_27: Activity time 38.1289262166256
+1380.46: Passenger_27: Leaving elevator
+1380.46: Passenger_28: Activity time 36.5936745032677
+1380.46: Passenger_28: Leaving elevator
+1383.46: Controller_0: Closing doors
+1386.46: Controller_0: Elevator departing to floor number (to destination): 11
+1390.46: Controller_0: Current elevator floor: 7
+1394.46: Controller_0: Current elevator floor: 8
+1398.46: Passenger_29: Generating passenger...
+1398.46: Passenger_29: Passenger arriving at floor: 1
+1398.46: Passenger_29: Arriving with destination floor: 8
+1398.46: Passenger_29: Waiting on elevator...
+1398.46: Controller_0: Current elevator floor: 9
+1402.46: Controller_0: Current elevator floor: 10
+1406.46: Controller_0: Current elevator floor: 11
+1406.46: Controller_0: Elevator driving time (to destination): 20 seconds ( 6 - 11 )
+1406.46: Controller_0: Reached destination: 11
+1406.46: Controller_0: Opening doors
+1409.46: Controller_0: Closing doors
+1412.46: Controller_0: Rollback 'handlerForWaitingPassengers'
+1412.46: Controller_0: Handling waiting passengers... ( 2 )
+1412.46: Controller_0: Elevator departing to floor number (to arrival): 0
+1412.46: Passenger_26: Activity time 113.678933352926
+1412.46: Passenger_26: Leaving elevator
+1416.28: Passenger_30: Generating passenger...
+1416.28: Passenger_30: Passenger arriving at floor: 0
+1416.28: Passenger_30: Arriving with destination floor: 5
+1416.28: Passenger_30: Waiting on elevator...
+1416.46: Controller_0: Current elevator floor: 10
+1420.46: Controller_0: Current elevator floor: 9
+1424.46: Controller_0: Current elevator floor: 8
+1428.46: Controller_0: Current elevator floor: 7
+1432.46: Controller_0: Current elevator floor: 6
+1436.46: Controller_0: Current elevator floor: 5
+1440.46: Controller_0: Current elevator floor: 4
+1444.46: Controller_0: Current elevator floor: 3
+1448.46: Controller_0: Current elevator floor: 2
+1452.46: Controller_0: Current elevator floor: 1
+1456.46: Controller_0: Current elevator floor: 0
+1456.46: Controller_0: Elevator driving time (to arrival): 44 seconds ( 11 - 0 )
+1456.46: Controller_0: New previous elevator floor: 0
+1456.46: Controller_0: Opening doors
+1456.46: Passenger_29: Not my arrival floor, or direction.
+1456.46: Passenger_30: Waiting time: 40.1853478225296 seconds
+1459.46: Controller_0: Closing doors
+1462.46: Controller_0: Elevator departing to floor number (to destination): 6
+1466.46: Controller_0: Current elevator floor: 1
+1466.46: Controller_0: Picking up waiting passengers at floor: 1
+1466.46: Controller_0: New destination floor: 6
+1466.46: Controller_0: Opening doors
+1466.46: Passenger_29: Waiting time: 68.0026112674152 seconds
+1469.46: Controller_0: Closing doors
+1473.34: Passenger_31: Generating passenger...
+1473.34: Passenger_31: Passenger arriving at floor: 3
+1473.34: Passenger_31: Arriving with destination floor: 1
+1473.34: Passenger_31: Waiting on elevator...
+1476.46: Controller_0: Current elevator floor: 2
+1480.46: Controller_0: Current elevator floor: 3
+1484.46: Controller_0: Current elevator floor: 4
+1488.46: Controller_0: Current elevator floor: 5
+1492.46: Controller_0: Current elevator floor: 6
+1492.46: Controller_0: Elevator driving time (to destination): 20 seconds ( 1 - 6 )
+1492.46: Controller_0: Reached destination: 6
+1492.46: Controller_0: Opening doors
+1492.46: Passenger_29: Not my destination floor
+1492.46: Passenger_30: Not my destination floor
+1495.46: Controller_0: Closing doors
+1498.46: Controller_0: Elevator departing to floor number (to destination): 8
+1502.46: Controller_0: Current elevator floor: 7
+1506.46: Controller_0: Current elevator floor: 8
+1506.46: Controller_0: Elevator driving time (to destination): 8 seconds ( 6 - 8 )
+1506.46: Controller_0: Reached destination: 8
+1506.46: Controller_0: Opening doors
+1509.46: Controller_0: Closing doors
+1512.46: Controller_0: Rollback 'handlerForWaitingPassengers'
+1512.46: Controller_0: Handling waiting passengers... ( 1 )
+1512.46: Controller_0: Elevator departing to floor number (to arrival): 3
+1512.46: Passenger_29: Activity time 114.002611267415
+1512.46: Passenger_29: Leaving elevator
+1512.46: Passenger_30: Not my destination floor
+1516.46: Controller_0: Current elevator floor: 7
+1520.46: Controller_0: Current elevator floor: 6
+1524.46: Controller_0: Current elevator floor: 5
+1524.9: Passenger_32: Generating passenger...
+1524.9: Passenger_32: Passenger arriving at floor: 7
+1524.9: Passenger_32: Arriving with destination floor: 10
+1524.9: Passenger_32: Waiting on elevator...
+1528.46: Controller_0: Current elevator floor: 4
+1532.46: Controller_0: Current elevator floor: 3
+1532.46: Controller_0: Elevator driving time (to arrival): 20 seconds ( 8 - 3 )
+1532.46: Controller_0: New previous elevator floor: 3
+1532.46: Controller_0: Opening doors
+1532.46: Passenger_31: Waiting time: 59.124751524341 seconds
+1532.46: Passenger_32: Not my arrival floor, or direction.
+1535.46: Controller_0: Closing doors
+1538.46: Controller_0: Elevator departing to floor number (to destination): 1
+1542.46: Controller_0: Current elevator floor: 2
+1546.46: Controller_0: Current elevator floor: 1
+1546.46: Controller_0: Elevator driving time (to destination): 8 seconds ( 3 - 1 )
+1546.46: Controller_0: Reached destination: 1
+1546.46: Controller_0: Opening doors
+1549.46: Controller_0: Closing doors
+1549.79: Passenger_33: Generating passenger...
+1549.79: Passenger_33: Passenger arriving at floor: 1
+1549.79: Passenger_33: Arriving with destination floor: 12
+1549.79: Passenger_33: Waiting on elevator...
+1550.45: Passenger_34: Generating passenger...
+1550.45: Passenger_34: Passenger arriving at floor: 0
+1550.45: Passenger_34: Arriving with destination floor: 7
+1550.45: Passenger_34: Waiting on elevator...
+1552.46: Controller_0: Elevator departing to floor number (to arrival): 1
+1552.46: Controller_0: Elevator driving time (to arrival): 0 seconds ( 1 - 1 )
+1552.46: Controller_0: New previous elevator floor: 1
+1552.46: Controller_0: Opening doors
+1552.46: Passenger_30: Not my destination floor
+1552.46: Passenger_31: Activity time 79.124751524341
+1552.46: Passenger_31: Leaving elevator
+1552.46: Passenger_32: Not my arrival floor, or direction.
+1552.46: Passenger_33: Waiting time: 2.67030110354358 seconds
+1552.46: Passenger_34: Not my arrival floor, or direction.
+1555.46: Controller_0: Closing doors
+1558.46: Controller_0: Elevator departing to floor number (to destination): 12
+1562.46: Controller_0: Current elevator floor: 2
+1566.46: Controller_0: Current elevator floor: 3
+1570.46: Controller_0: Current elevator floor: 4
+1574.46: Controller_0: Current elevator floor: 5
+1576.78: Passenger_35: Generating passenger...
+1576.78: Passenger_35: Passenger arriving at floor: 1
+1576.78: Passenger_35: Arriving with destination floor: 11
+1576.78: Passenger_35: Waiting on elevator...
+1578.46: Controller_0: Current elevator floor: 6
+1582.46: Controller_0: Current elevator floor: 7
+1586.46: Controller_0: Current elevator floor: 8
+1590.46: Controller_0: Current elevator floor: 9
+1594.46: Controller_0: Current elevator floor: 10
+1598.46: Controller_0: Current elevator floor: 11
+1602.46: Controller_0: Current elevator floor: 12
+1602.46: Controller_0: Elevator driving time (to destination): 44 seconds ( 1 - 12 )
+1602.46: Controller_0: Reached destination: 12
+1602.46: Controller_0: Opening doors
+1605.46: Controller_0: Closing doors
+1608.46: Controller_0: Rollback 'handlerForWaitingPassengers'
+1608.46: Controller_0: Handling waiting passengers... ( 4 )
+1608.46: Controller_0: Elevator departing to floor number (to arrival): 0
+1608.46: Passenger_30: Not my destination floor
+1608.46: Passenger_33: Activity time 58.6703011035436
+1608.46: Passenger_33: Leaving elevator
+1610.22: Passenger_36: Generating passenger...
+1610.22: Passenger_36: Passenger arriving at floor: 0
+1610.22: Passenger_36: Arriving with destination floor: 8
+1610.22: Passenger_36: Waiting on elevator...
+1612.46: Controller_0: Current elevator floor: 11
+1616.46: Controller_0: Current elevator floor: 10
+1620.46: Controller_0: Current elevator floor: 9
+1624.46: Controller_0: Current elevator floor: 8
+1628.46: Controller_0: Current elevator floor: 7
+1632.46: Controller_0: Current elevator floor: 6
+1636.46: Controller_0: Current elevator floor: 5
+1640.46: Controller_0: Current elevator floor: 4
+1643.92: Passenger_37: Generating passenger...
+1643.92: Passenger_37: Passenger arriving at floor: 3
+1643.92: Passenger_37: Arriving with destination floor: 10
+1643.92: Passenger_37: Waiting on elevator...
+1644.46: Controller_0: Current elevator floor: 3
+1648.46: Controller_0: Current elevator floor: 2
+1652.46: Controller_0: Current elevator floor: 1
+1656.46: Controller_0: Current elevator floor: 0
+1656.46: Controller_0: Elevator driving time (to arrival): 48 seconds ( 12 - 0 )
+1656.46: Controller_0: New previous elevator floor: 0
+1656.46: Controller_0: Opening doors
+1656.46: Passenger_32: Not my arrival floor, or direction.
+1656.46: Passenger_34: Waiting time: 106.008645890791 seconds
+1656.46: Passenger_35: Not my arrival floor, or direction.
+1656.46: Passenger_36: Waiting time: 46.2406736154137 seconds
+1656.46: Passenger_37: Not my arrival floor, or direction.
+1659.46: Controller_0: Closing doors
+1662.46: Controller_0: Elevator departing to floor number (to destination): 5
+1666.46: Controller_0: Current elevator floor: 1
+1666.46: Controller_0: Picking up waiting passengers at floor: 1
+1666.46: Controller_0: New destination floor: 5
+1666.46: Controller_0: Opening doors
+1666.46: Passenger_32: Not my arrival floor, or direction.
+1666.46: Passenger_35: Waiting time: 89.6843973508132 seconds
+1666.46: Passenger_37: Not my arrival floor, or direction.
+1669.46: Controller_0: Closing doors
+1676.46: Controller_0: Current elevator floor: 2
+1680.46: Controller_0: Current elevator floor: 3
+1680.46: Controller_0: Picking up waiting passengers at floor: 3
+1680.46: Controller_0: New destination floor: 5
+1680.46: Controller_0: Opening doors
+1680.46: Passenger_32: Not my arrival floor, or direction.
+1680.46: Passenger_37: Waiting time: 36.5369804266868 seconds
+1682.07: Passenger_38: Generating passenger...
+1682.07: Passenger_38: Passenger arriving at floor: 0
+1682.07: Passenger_38: Arriving with destination floor: 11
+1682.07: Passenger_38: Waiting on elevator...
+1683.46: Controller_0: Closing doors
+1690.46: Controller_0: Current elevator floor: 4
+1694.46: Controller_0: Current elevator floor: 5
+1694.46: Controller_0: Elevator driving time (to destination): 8 seconds ( 3 - 5 )
+1694.46: Controller_0: Reached destination: 5
+1694.46: Controller_0: Opening doors
+1694.46: Passenger_30: Activity time 278.18534782253
+1694.46: Passenger_30: Leaving elevator
+1694.46: Passenger_34: Not my destination floor
+1694.46: Passenger_35: Not my destination floor
+1694.46: Passenger_36: Not my destination floor
+1694.46: Passenger_37: Not my destination floor
+1697.46: Controller_0: Closing doors
+1700.46: Controller_0: Elevator departing to floor number (to destination): 7
+1704.46: Controller_0: Current elevator floor: 6
+1708.46: Controller_0: Current elevator floor: 7
+1708.46: Controller_0: Picking up waiting passengers at floor: 7
+1708.46: Controller_0: New destination floor: 7
+1708.46: Controller_0: Opening doors
+1708.46: Passenger_32: Waiting time: 183.55590102407 seconds
+1708.46: Passenger_38: Not my arrival floor, or direction.
+1711.46: Controller_0: Closing doors
+1714.46: Controller_0: Elevator driving time (to destination): 28 seconds ( 0 - 7 )
+1714.46: Controller_0: Reached destination: 7
+1714.46: Controller_0: Opening doors
+1714.46: Passenger_32: Not my destination floor
+1714.46: Passenger_34: Activity time 164.008645890791
+1714.46: Passenger_34: Leaving elevator
+1714.46: Passenger_35: Not my destination floor
+1714.46: Passenger_36: Not my destination floor
+1714.46: Passenger_37: Not my destination floor
+1717.46: Controller_0: Closing doors
+1720.46: Controller_0: Elevator departing to floor number (to destination): 10
+1724.46: Controller_0: Current elevator floor: 8
+1728.46: Controller_0: Current elevator floor: 9
+1732.46: Controller_0: Current elevator floor: 10
+1732.46: Controller_0: Elevator driving time (to destination): 12 seconds ( 7 - 10 )
+1732.46: Controller_0: Reached destination: 10
+1732.46: Controller_0: Opening doors
+1732.46: Passenger_32: Activity time 207.55590102407
+1732.46: Passenger_32: Leaving elevator
+1732.46: Passenger_35: Not my destination floor
+1732.46: Passenger_36: Not my destination floor
+1732.46: Passenger_37: Activity time 88.5369804266868
+1732.46: Passenger_37: Leaving elevator
+1735.46: Controller_0: Closing doors
+1738.46: Controller_0: Elevator departing to floor number (to destination): 11
+1742.46: Controller_0: Current elevator floor: 11
+1742.46: Controller_0: Elevator driving time (to destination): 4 seconds ( 10 - 11 )
+1742.46: Controller_0: Reached destination: 11
+1742.46: Controller_0: Opening doors
+1745.46: Controller_0: Closing doors
+1748.46: Controller_0: Rollback 'handlerForWaitingPassengers'
+1748.46: Controller_0: Handling waiting passengers... ( 2 )
+1748.46: Controller_0: Elevator departing to floor number (to arrival): 0
+1748.46: Passenger_35: Activity time 171.684397350813
+1748.46: Passenger_35: Leaving elevator
+1748.46: Passenger_36: Not my destination floor
+1752.46: Controller_0: Current elevator floor: 10
+1756.46: Controller_0: Current elevator floor: 9
+1760.46: Controller_0: Current elevator floor: 8
+1764.46: Controller_0: Current elevator floor: 7
+1768.46: Controller_0: Current elevator floor: 6
+1771.76: Passenger_39: Generating passenger...
+1771.76: Passenger_39: Passenger arriving at floor: 1
+1771.76: Passenger_39: Arriving with destination floor: 4
+1771.76: Passenger_39: Waiting on elevator...
+1772.46: Controller_0: Current elevator floor: 5
+1776.46: Controller_0: Current elevator floor: 4
+1780.46: Controller_0: Current elevator floor: 3
+1784.46: Controller_0: Current elevator floor: 2
+1788.46: Controller_0: Current elevator floor: 1
+1792.46: Controller_0: Current elevator floor: 0
+1792.46: Controller_0: Elevator driving time (to arrival): 44 seconds ( 11 - 0 )
+1792.46: Controller_0: New previous elevator floor: 0
+1792.46: Controller_0: Opening doors
+1792.46: Passenger_38: Waiting time: 110.386203366386 seconds
+1792.46: Passenger_39: Not my arrival floor, or direction.
+1795.46: Controller_0: Closing doors
+1798.46: Controller_0: Elevator departing to floor number (to destination): 8
+1802.46: Controller_0: Current elevator floor: 1
+1802.46: Controller_0: Picking up waiting passengers at floor: 1
+1802.46: Controller_0: New destination floor: 4
+1802.46: Controller_0: Opening doors
+1802.46: Passenger_39: Waiting time: 30.6984877135317 seconds
+1805.46: Controller_0: Closing doors
+1812.46: Controller_0: Current elevator floor: 2
+1816.46: Controller_0: Current elevator floor: 3
+1820.46: Controller_0: Current elevator floor: 4
+1820.46: Controller_0: Elevator driving time (to destination): 12 seconds ( 1 - 4 )
+1820.46: Controller_0: Reached destination: 4
+1820.46: Controller_0: Opening doors
+1820.46: Passenger_36: Not my destination floor
+1820.46: Passenger_38: Not my destination floor
+1820.46: Passenger_39: Activity time 48.6984877135317
+1820.46: Passenger_39: Leaving elevator
+1823.46: Controller_0: Closing doors
+1826.46: Controller_0: Elevator departing to floor number (to destination): 8
+1830.46: Controller_0: Current elevator floor: 5
+1834.46: Controller_0: Current elevator floor: 6
+1838.46: Controller_0: Current elevator floor: 7
+1842.46: Controller_0: Current elevator floor: 8
+1842.46: Controller_0: Elevator driving time (to destination): 16 seconds ( 4 - 8 )
+1842.46: Controller_0: Reached destination: 8
+1842.46: Controller_0: Opening doors
+1842.46: Passenger_36: Activity time 232.240673615414
+1842.46: Passenger_36: Leaving elevator
+1842.46: Passenger_38: Not my destination floor
+1845.46: Controller_0: Closing doors
+1848.46: Controller_0: Elevator departing to floor number (to destination): 11
+1852.46: Controller_0: Current elevator floor: 9
+1856.46: Controller_0: Current elevator floor: 10
+1860.46: Controller_0: Current elevator floor: 11
+1860.46: Controller_0: Elevator driving time (to destination): 12 seconds ( 8 - 11 )
+1860.46: Controller_0: Reached destination: 11
+1860.46: Controller_0: Opening doors
+1863.46: Controller_0: Closing doors
+1866.46: Controller_0: Controller ready...
+1866.46: Passenger_38: Activity time 184.386203366386
+1866.46: Passenger_38: Leaving elevator
+1869.49: Passenger_40: Generating passenger...
+1869.49: Passenger_40: Passenger arriving at floor: 0
+1869.49: Passenger_40: Arriving with destination floor: 11
+1869.49: Passenger_40: Waiting on elevator...
+1869.49: Controller_0: Receiving passenger signal
+1869.49: Controller_0: Elevator departing to floor number (to arrival): 0
+1873.49: Controller_0: Current elevator floor: 10
+1877.49: Controller_0: Current elevator floor: 9
+1881.49: Controller_0: Current elevator floor: 8
+1885.49: Controller_0: Current elevator floor: 7
+1889.49: Controller_0: Current elevator floor: 6
+1893.49: Controller_0: Current elevator floor: 5
+1897.49: Controller_0: Current elevator floor: 4
+1901.49: Controller_0: Current elevator floor: 3
+1905.49: Controller_0: Current elevator floor: 2
+1909.49: Controller_0: Current elevator floor: 1
+1913.49: Controller_0: Current elevator floor: 0
+1913.49: Controller_0: Elevator driving time (to arrival): 44 seconds ( 11 - 0 )
+1913.49: Controller_0: New previous elevator floor: 0
+1913.49: Controller_0: Opening doors
+1913.49: Passenger_40: Waiting time: 44 seconds
+1916.49: Controller_0: Closing doors
+1919.49: Controller_0: Elevator departing to floor number (to destination): 11
+1923.49: Controller_0: Current elevator floor: 1
+1927.49: Controller_0: Current elevator floor: 2
+1931.49: Controller_0: Current elevator floor: 3
+1935.49: Controller_0: Current elevator floor: 4
+1939.49: Controller_0: Current elevator floor: 5
+1943.49: Controller_0: Current elevator floor: 6
+1947.49: Controller_0: Current elevator floor: 7
+1951.49: Controller_0: Current elevator floor: 8
+1955.49: Controller_0: Current elevator floor: 9
+1959.49: Controller_0: Current elevator floor: 10
+1963.49: Controller_0: Current elevator floor: 11
+1963.49: Controller_0: Elevator driving time (to destination): 44 seconds ( 0 - 11 )
+1963.49: Controller_0: Reached destination: 11
+1963.49: Controller_0: Opening doors
+1966.49: Controller_0: Closing doors
+1969.49: Controller_0: Check if data frame is empty. Rows: 0
+1969.49: Controller_0: Controller ready...
+1969.49: Passenger_40: Activity time 100
+1969.49: Passenger_40: Leaving elevator
+2055.43: Passenger_41: Generating passenger...
+2055.43: Passenger_41: Passenger arriving at floor: 0
+2055.43: Passenger_41: Arriving with destination floor: 3
+2055.43: Passenger_41: Waiting on elevator...
+2055.43: Controller_0: Receiving passenger signal
+2055.43: Controller_0: Elevator departing to floor number (to arrival): 0
+2058.21: Passenger_42: Generating passenger...
+2058.21: Passenger_42: Passenger arriving at floor: 3
+2058.21: Passenger_42: Arriving with destination floor: 4
+2058.21: Passenger_42: Waiting on elevator...
+2059.43: Controller_0: Current elevator floor: 10
+2063.43: Controller_0: Current elevator floor: 9
+2067.43: Controller_0: Current elevator floor: 8
+2071.43: Controller_0: Current elevator floor: 7
+2075.43: Controller_0: Current elevator floor: 6
+2079.43: Controller_0: Current elevator floor: 5
+2083.43: Controller_0: Current elevator floor: 4
+2087.43: Controller_0: Current elevator floor: 3
+2091.43: Controller_0: Current elevator floor: 2
+2095.43: Controller_0: Current elevator floor: 1
+2099.43: Controller_0: Current elevator floor: 0
+2099.43: Controller_0: Elevator driving time (to arrival): 44 seconds ( 11 - 0 )
+2099.43: Controller_0: New previous elevator floor: 0
+2099.43: Controller_0: Opening doors
+2099.43: Passenger_41: Waiting time: 44 seconds
+2099.43: Passenger_42: Not my arrival floor, or direction.
+2102.43: Controller_0: Closing doors
+2105.43: Controller_0: Elevator departing to floor number (to destination): 3
+2109.43: Controller_0: Current elevator floor: 1
+2113.43: Controller_0: Current elevator floor: 2
+2117.43: Controller_0: Current elevator floor: 3
+2117.43: Controller_0: Picking up waiting passengers at floor: 3
+2117.43: Controller_0: New destination floor: 3
+2117.43: Controller_0: Opening doors
+2117.43: Passenger_42: Waiting time: 59.2272602142766 seconds
+2120.43: Controller_0: Closing doors
+2123.43: Controller_0: Elevator driving time (to destination): 12 seconds ( 0 - 3 )
+2123.43: Controller_0: Reached destination: 3
+2123.43: Controller_0: Check if data frame is empty. Rows: 1
+2123.43: Controller_0: Opening doors
+2123.43: Passenger_41: Activity time 68
+2123.43: Passenger_41: Leaving elevator
+2123.43: Passenger_42: Not my destination floor
+2126.43: Controller_0: Closing doors
+2129.43: Controller_0: Elevator departing to floor number (to destination): 4
+2133.43: Controller_0: Current elevator floor: 4
+2133.43: Controller_0: Elevator driving time (to destination): 4 seconds ( 3 - 4 )
+2133.43: Controller_0: Reached destination: 4
+2133.43: Controller_0: Opening doors
+2136.43: Controller_0: Closing doors
+2139.43: Controller_0: Controller ready...
+2139.43: Passenger_42: Activity time 81.2272602142766
+2139.43: Passenger_42: Leaving elevator
+2150.17: Passenger_43: Generating passenger...
+2150.17: Passenger_43: Passenger arriving at floor: 0
+2150.17: Passenger_43: Arriving with destination floor: 11
+2150.17: Passenger_43: Waiting on elevator...
+2150.17: Controller_0: Receiving passenger signal
+2150.17: Controller_0: Elevator departing to floor number (to arrival): 0
+2154.17: Controller_0: Current elevator floor: 3
+2158.17: Controller_0: Current elevator floor: 2
+2162.17: Controller_0: Current elevator floor: 1
+2166.17: Controller_0: Current elevator floor: 0
+2166.17: Controller_0: Elevator driving time (to arrival): 16 seconds ( 4 - 0 )
+2166.17: Controller_0: New previous elevator floor: 0
+2166.17: Controller_0: Opening doors
+2166.17: Passenger_43: Waiting time: 16 seconds
+2169.17: Controller_0: Closing doors
+2172.17: Controller_0: Elevator departing to floor number (to destination): 11
+2176.17: Controller_0: Current elevator floor: 1
+2180.17: Controller_0: Current elevator floor: 2
+2184.17: Controller_0: Current elevator floor: 3
+2188.17: Controller_0: Current elevator floor: 4
+2192.17: Controller_0: Current elevator floor: 5
+2196.17: Controller_0: Current elevator floor: 6
+2200.17: Controller_0: Current elevator floor: 7
+2204.17: Controller_0: Current elevator floor: 8
+2208.17: Controller_0: Current elevator floor: 9
+2212.17: Controller_0: Current elevator floor: 10
+2216.17: Controller_0: Current elevator floor: 11
+2216.17: Controller_0: Elevator driving time (to destination): 44 seconds ( 0 - 11 )
+2216.17: Controller_0: Reached destination: 11
+2216.17: Controller_0: Opening doors
+2219.17: Controller_0: Closing doors
+2222.17: Controller_0: Check if data frame is empty. Rows: 0
+2222.17: Controller_0: Controller ready...
+2222.17: Passenger_43: Activity time 72
+2222.17: Passenger_43: Leaving elevator
+2228.58: Passenger_44: Generating passenger...
+2228.58: Passenger_44: Passenger arriving at floor: 0
+2228.58: Passenger_44: Arriving with destination floor: 7
+2228.58: Passenger_44: Waiting on elevator...
+2228.58: Controller_0: Receiving passenger signal
+2228.58: Controller_0: Elevator departing to floor number (to arrival): 0
+2232.58: Controller_0: Current elevator floor: 10
+2236.58: Controller_0: Current elevator floor: 9
+2237.68: Passenger_45: Generating passenger...
+2237.68: Passenger_45: Passenger arriving at floor: 1
+2237.68: Passenger_45: Arriving with destination floor: 13
+2237.68: Passenger_45: Waiting on elevator...
+2240.58: Controller_0: Current elevator floor: 8
+2244.58: Controller_0: Current elevator floor: 7
+2248.58: Controller_0: Current elevator floor: 6
+2252.58: Controller_0: Current elevator floor: 5
+2256.58: Controller_0: Current elevator floor: 4
+2260.58: Controller_0: Current elevator floor: 3
+2264.58: Controller_0: Current elevator floor: 2
+2268.58: Controller_0: Current elevator floor: 1
+2272.58: Controller_0: Current elevator floor: 0
+2272.58: Controller_0: Elevator driving time (to arrival): 44 seconds ( 11 - 0 )
+2272.58: Controller_0: New previous elevator floor: 0
+2272.58: Controller_0: Opening doors
+2272.58: Passenger_44: Waiting time: 44 seconds
+2272.58: Passenger_45: Not my arrival floor, or direction.
+2275.58: Controller_0: Closing doors
+2278.58: Controller_0: Elevator departing to floor number (to destination): 7
+2282.58: Controller_0: Current elevator floor: 1
+2282.58: Controller_0: Picking up waiting passengers at floor: 1
+2282.58: Controller_0: New destination floor: 7
+2282.58: Controller_0: Opening doors
+2282.58: Passenger_45: Waiting time: 44.9025982487947 seconds
+2285.58: Controller_0: Closing doors
+2292.58: Controller_0: Current elevator floor: 2
+2296.58: Controller_0: Current elevator floor: 3
+2300.58: Controller_0: Current elevator floor: 4
+2304.58: Controller_0: Current elevator floor: 5
+2308.58: Controller_0: Current elevator floor: 6
+2312.58: Controller_0: Current elevator floor: 7
+2312.58: Controller_0: Elevator driving time (to destination): 24 seconds ( 1 - 7 )
+2312.58: Controller_0: Reached destination: 7
+2312.58: Controller_0: Check if data frame is empty. Rows: 1
+2312.58: Controller_0: Opening doors
+2312.58: Passenger_44: Activity time 84
+2312.58: Passenger_44: Leaving elevator
+2312.58: Passenger_45: Not my destination floor
+2315.58: Controller_0: Closing doors
+2318.58: Controller_0: Elevator departing to floor number (to destination): 13
+2322.58: Controller_0: Current elevator floor: 8
+2326.58: Controller_0: Current elevator floor: 9
+2330.58: Controller_0: Current elevator floor: 10
+2334.58: Controller_0: Current elevator floor: 11
+2338.58: Controller_0: Current elevator floor: 12
+2342.58: Controller_0: Current elevator floor: 13
+2342.58: Controller_0: Elevator driving time (to destination): 24 seconds ( 7 - 13 )
+2342.58: Controller_0: Reached destination: 13
+2342.58: Controller_0: Opening doors
+2345.58: Controller_0: Closing doors
+2348.58: Controller_0: Controller ready...
+2348.58: Passenger_45: Activity time 110.902598248795
+2348.58: Passenger_45: Leaving elevator
+2541.48: Passenger_46: Generating passenger...
+2541.48: Passenger_46: Passenger arriving at floor: 0
+2541.48: Passenger_46: Arriving with destination floor: 2
+2541.48: Passenger_46: Waiting on elevator...
+2541.48: Controller_0: Receiving passenger signal
+2541.48: Controller_0: Elevator departing to floor number (to arrival): 0
+2545.48: Controller_0: Current elevator floor: 12
+2549.48: Controller_0: Current elevator floor: 11
+2553.48: Controller_0: Current elevator floor: 10
+2557.48: Controller_0: Current elevator floor: 9
+2561.48: Controller_0: Current elevator floor: 8
+2565.48: Controller_0: Current elevator floor: 7
+2569.48: Controller_0: Current elevator floor: 6
+2573.48: Controller_0: Current elevator floor: 5
+2577.48: Controller_0: Current elevator floor: 4
+2581.48: Controller_0: Current elevator floor: 3
+2585.48: Controller_0: Current elevator floor: 2
+2589.48: Controller_0: Current elevator floor: 1
+2593.48: Controller_0: Current elevator floor: 0
+2593.48: Controller_0: Elevator driving time (to arrival): 52 seconds ( 13 - 0 )
+2593.48: Controller_0: New previous elevator floor: 0
+2593.48: Controller_0: Opening doors
+2593.48: Passenger_46: Waiting time: 52 seconds
+2596.48: Controller_0: Closing doors
+2598.35: Passenger_47: Generating passenger...
+2598.35: Passenger_47: Passenger arriving at floor: 1
+2598.35: Passenger_47: Arriving with destination floor: 2
+2598.35: Passenger_47: Waiting on elevator...
+2599.48: Controller_0: Elevator departing to floor number (to destination): 2
+2603.48: Controller_0: Current elevator floor: 1
+2603.48: Controller_0: Picking up waiting passengers at floor: 1
+2603.48: Controller_0: New destination floor: 2
+2603.48: Controller_0: Opening doors
+2603.48: Passenger_47: Waiting time: 5.13942110376001 seconds
+2606.48: Controller_0: Closing doors
+2613.48: Controller_0: Current elevator floor: 2
+2613.48: Controller_0: Elevator driving time (to destination): 4 seconds ( 1 - 2 )
+2613.48: Controller_0: Reached destination: 2
+2613.48: Controller_0: Opening doors
+2616.48: Controller_0: Closing doors
+2619.48: Controller_0: Check if data frame is empty. Rows: 0
+2619.48: Controller_0: Controller ready...
+2619.48: Passenger_46: Activity time 78
+2619.48: Passenger_46: Leaving elevator
+2619.48: Passenger_47: Activity time 21.13942110376
+2619.48: Passenger_47: Leaving elevator
+2669.37: Passenger_48: Generating passenger...
+2669.37: Passenger_48: Passenger arriving at floor: 3
+2669.37: Passenger_48: Arriving with destination floor: 12
+2669.37: Passenger_48: Waiting on elevator...
+2669.37: Controller_0: Receiving passenger signal
+2669.37: Controller_0: Elevator departing to floor number (to arrival): 3
+2673.37: Controller_0: Current elevator floor: 3
+2673.37: Controller_0: Elevator driving time (to arrival): 4 seconds ( 2 - 3 )
+2673.37: Controller_0: New previous elevator floor: 3
+2673.37: Controller_0: Opening doors
+2673.37: Passenger_48: Waiting time: 4 seconds
+2676.37: Controller_0: Closing doors
+2679.37: Controller_0: Elevator departing to floor number (to destination): 12
+2683.37: Controller_0: Current elevator floor: 4
+2687.37: Controller_0: Current elevator floor: 5
+2691.37: Controller_0: Current elevator floor: 6
+2695.37: Controller_0: Current elevator floor: 7
+2699.37: Controller_0: Current elevator floor: 8
+2703.37: Controller_0: Current elevator floor: 9
+2707.37: Controller_0: Current elevator floor: 10
+2711.37: Controller_0: Current elevator floor: 11
+2715.37: Controller_0: Current elevator floor: 12
+2715.37: Controller_0: Elevator driving time (to destination): 36 seconds ( 3 - 12 )
+2715.37: Controller_0: Reached destination: 12
+2715.37: Controller_0: Opening doors
+2718.37: Controller_0: Closing doors
+2721.37: Controller_0: Check if data frame is empty. Rows: 0
+2721.37: Controller_0: Controller ready...
+2721.37: Passenger_48: Activity time 52
+2721.37: Passenger_48: Leaving elevator
+2884.05: Passenger_49: Generating passenger...
+2884.05: Passenger_49: Passenger arriving at floor: 1
+2884.05: Passenger_49: Arriving with destination floor: 14
+2884.05: Passenger_49: Waiting on elevator...
+2884.05: Controller_0: Receiving passenger signal
+2884.05: Controller_0: Elevator departing to floor number (to arrival): 1
+2888.05: Controller_0: Current elevator floor: 11
+2892.05: Controller_0: Current elevator floor: 10
+2896.05: Controller_0: Current elevator floor: 9
+2896.05: Passenger_50: Generating passenger...
+2896.05: Passenger_50: Passenger arriving at floor: 1
+2896.05: Passenger_50: Arriving with destination floor: 6
+2896.05: Passenger_50: Waiting on elevator...
+2900.05: Controller_0: Current elevator floor: 8
+2904.05: Controller_0: Current elevator floor: 7
+2908.05: Controller_0: Current elevator floor: 6
+2912.05: Controller_0: Current elevator floor: 5
+2916.05: Controller_0: Current elevator floor: 4
+2920.05: Controller_0: Current elevator floor: 3
+2924.05: Controller_0: Current elevator floor: 2
+2928.05: Controller_0: Current elevator floor: 1
+2928.05: Controller_0: Elevator driving time (to arrival): 44 seconds ( 12 - 1 )
+2928.05: Controller_0: New previous elevator floor: 1
+2928.05: Controller_0: Opening doors
+2928.05: Passenger_49: Waiting time: 44 seconds
+2928.05: Passenger_50: Waiting time: 31.9962119217553 seconds
+2931.05: Controller_0: Closing doors
+2934.05: Controller_0: Elevator departing to floor number (to destination): 14
+2938.05: Controller_0: Current elevator floor: 2
+2942.05: Controller_0: Current elevator floor: 3
+2946.05: Controller_0: Current elevator floor: 4
+2950.05: Controller_0: Current elevator floor: 5
+2954.05: Controller_0: Current elevator floor: 6
+2958.05: Controller_0: Current elevator floor: 7
+2962.05: Controller_0: Current elevator floor: 8
+2966.05: Controller_0: Current elevator floor: 9
+2970.05: Controller_0: Current elevator floor: 10
+2974.05: Controller_0: Current elevator floor: 11
+2978.05: Controller_0: Current elevator floor: 12
+2982.05: Controller_0: Current elevator floor: 13
+2986.05: Controller_0: Current elevator floor: 14
+2986.05: Controller_0: Elevator driving time (to destination): 52 seconds ( 1 - 14 )
+2986.05: Controller_0: Reached destination: 14
+2986.05: Controller_0: Opening doors
+2989.05: Controller_0: Closing doors
+2992.05: Controller_0: Check if data frame is empty. Rows: 0
+2992.05: Controller_0: Handling waiting passengers... ( 1 )
+2992.05: Controller_0: Elevator departing to floor number (to arrival): 1
+2992.05: Passenger_49: Activity time 108
+2992.05: Passenger_49: Leaving elevator
+2992.05: Passenger_50: Not my destination floor
+2996.05: Controller_0: Current elevator floor: 13
+3000.05: Controller_0: Current elevator floor: 12
+3004.05: Controller_0: Current elevator floor: 11
+3008.05: Controller_0: Current elevator floor: 10
+3012.05: Controller_0: Current elevator floor: 9
+3016.05: Controller_0: Current elevator floor: 8
+3020.05: Controller_0: Current elevator floor: 7
+3024.05: Controller_0: Current elevator floor: 6
+3028.05: Controller_0: Current elevator floor: 5
+3032.05: Controller_0: Current elevator floor: 4
+3036.05: Controller_0: Current elevator floor: 3
+3040.05: Controller_0: Current elevator floor: 2
+3044.05: Controller_0: Current elevator floor: 1
+3044.05: Controller_0: Elevator driving time (to arrival): 52 seconds ( 14 - 1 )
+3044.05: Controller_0: New previous elevator floor: 1
+3044.05: Controller_0: Opening doors
+3047.05: Controller_0: Closing doors
+3050.05: Controller_0: Elevator departing to floor number (to destination): 6
+3054.05: Controller_0: Current elevator floor: 2
+3058.05: Controller_0: Current elevator floor: 3
+3062.05: Controller_0: Current elevator floor: 4
+3066.05: Controller_0: Current elevator floor: 5
+3070.05: Controller_0: Current elevator floor: 6
+3070.05: Controller_0: Elevator driving time (to destination): 20 seconds ( 1 - 6 )
+3070.05: Controller_0: Reached destination: 6
+3070.05: Controller_0: Opening doors
+3073.05: Controller_0: Closing doors
+3076.05: Controller_0: Controller ready...
+3076.05: Passenger_50: Activity time 179.996211921755
+3076.05: Passenger_50: Leaving elevator
